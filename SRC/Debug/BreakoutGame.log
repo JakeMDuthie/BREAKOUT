@@ -1,0 +1,4 @@
+﻿  play_state.cpp
+d:\breakout\breakoutgame\gamestates\play_state.cpp(366): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\breakout\breakoutgame\gamestates\play_state.cpp(370): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  BreakoutGame.vcxproj -> D:\BREAKOUT\BreakoutGame\Debug\BreakoutGame.exe
